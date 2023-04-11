@@ -1,0 +1,4 @@
+MuthiaZahra\pencatatan\buku\entity\Book.class
+MuthiaZahra\pencatatan\buku\App.class
+MuthiaZahra\pencatatan\buku\Repository\Impl\BookRepository.class
+MuthiaZahra\pencatatan\buku\Repository\Impl\BookRepositoryImpl.class
